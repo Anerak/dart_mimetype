@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <mime-info xmlns='http://www.freedesktop.org/standards/shared-mime-info'>
+  <mime-type type="text/x-dart">
+    <sub-class-of type="text/plain"/>
+    <alias type="text/x-dart"/>
+    <comment>Dart source code</comment>
+    <comment xml:lang="en_GB">Dart source code</comment>
+    <comment xml:lang="es">código fuente en Dart</comment>
+    <glob pattern="*.dart"/>
+  </mime-type>
+ </mime-info>
