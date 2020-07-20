@@ -26,7 +26,14 @@ Place it at the folder of your icons theme.
     # Example
     /usr/share/icons/[icon theme]/scalable/mimetypes/text-x-dart.svg
 
+## Thanks
+
+* The [people][6] behind **[Dart][1]**
+* [Samuel Hewitt][4] and the [contributors][5] of [Paper][3]
+
 [1]: https://dart.dev
 [2]: https://en.wikipedia.org/wiki/Dart_(programming_language)#cite_note-12
 [3]: https://snwh.org/paper
 [4]: https://samuelhewitt.com/
+[5]: https://github.com/snwh/paper-icon-theme/graphs/contributors
+[6]: https://github.com/orgs/dart-lang/people
